@@ -1,0 +1,23 @@
+{
+  "name": "blocks",
+  "homepage": "https://github.com/Joel-Lumian/blocks",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Joel Lumian"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.5.1",
+    "material-design-lite": "~1.1.1"
+  }
+}
